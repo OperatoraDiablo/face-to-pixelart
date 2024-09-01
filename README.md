@@ -77,6 +77,13 @@ Download instantid-controlnet.safetensors
 wget https://huggingface.co/Aitrepreneur/InstantID-Controlnet/resolve/main/checkpoints/ControlNetModel/diffusion_pytorch_model.safetensors?download=true -O models/controlnet/instantid-controlnet.safetensors
 ```
 
+Download the pixel art LORA
+
+```sh
+wget https://huggingface.co/primerz/lucasart/resolve/main/lucasarts%20style.safetensors?download=true -O models/others/lucasarts-style.safetensors
+```
+
+
 Run the [following script](https://github.com/fofr/cog-face-to-many/blob/main/scripts/clone_plugins.sh) to install all the custom nodes:
 
 ```sh
