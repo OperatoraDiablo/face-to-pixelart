@@ -20,23 +20,12 @@ You’ll need these custom nodes:
 
 ![Arnold](https://replicate.delivery/pbxt/R1ayGe5efoQbaoRzgDEJdLsIZ20lWRiprvoW1F4uKAZIha6kA/ComfyUI_00001_.png)
 
-## Loras
-
-The 3D, video game, pixel art, claymation and toy loras are all made by artificialguybr. If you like them you can make a donation to their Patreon or Ko-fi:
-
-- https://www.patreon.com/user?u=81570187
-- https://ko-fi.com/artificialguybr
-
-Or follow him on Twitter:
-
-https://twitter.com/artificialguybr
-
 ## Developing locally
 
 Clone this repository:
 
 ```sh
-git clone --recurse-submodules https://github.com/fofr/cog-face-to-many.git && cd cog-face-to-many/ComfyUI
+git clone --recurse-submodules https://github.com/OperatoraDiablo/face-to-pixelart.git && cd face-to-pixelart/ComfyUI
 ```
 
 Create python venv and activate
